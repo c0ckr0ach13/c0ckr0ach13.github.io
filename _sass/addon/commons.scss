@@ -1514,7 +1514,8 @@ $btn-mb: 0.5rem;
 
   #main-wrapper,
   footer {
-    margin-left: $sidebar-width-large;
+    margin-left: 500px;
+    margin-right: 200px;
   }
 
   #topbar-wrapper {
@@ -1547,6 +1548,7 @@ $btn-mb: 0.5rem;
 
   #sidebar {
     width: $sidebar-width-large;
+    margin-left: 200px;
 
     $icon-gap: 1rem; // for the bottom icons
 
