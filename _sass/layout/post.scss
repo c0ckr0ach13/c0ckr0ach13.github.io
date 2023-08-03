@@ -274,7 +274,7 @@ h1 + .post-meta {
 
     li {
       &:not(:last-child) {
-        margin: 0.4rem 0;
+        margin: 0 0;
       }
 
       a {
@@ -320,6 +320,11 @@ h1 + .post-meta {
       ul {
         a {
           padding-left: 3rem;
+        }
+        ul {
+          a {
+            padding-left: 4rem;
+          }
         }
       }
     }

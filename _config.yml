@@ -37,11 +37,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: DummyKitty
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - DommyKitty # change to your twitter homepage
     - https://github.com/DummyKitty # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-FXH03FE54B # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
