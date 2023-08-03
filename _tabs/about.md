@@ -6,8 +6,6 @@ order: 4
 
 ## About me 🤝
 
-<img src="{{site.url }}{{site.baseurl}}/src/assets/img/cybercat2.webp" style="float:left;width:160px;margin-right:40px"/>
-
 - 💻 Web Security
 
 - 🏥 Medicine lover (taught by girlfriend)

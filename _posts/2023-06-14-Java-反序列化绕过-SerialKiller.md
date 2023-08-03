@@ -57,7 +57,8 @@ SerialKiller 示例配置文件如下：
 这个配置文件指定了一个黑名单，过滤了 CC 链中的 gadget 如 InvokerTransformer、ChainedTransformer 等。
 
 ## CC 链绕过
-![](CC/summary_from_baibaibai.png)
+
+![20230803042045](https://de34dnotespics.oss-cn-beijing.aliyuncs.com/img/20230803042045.png)
 
 通常比赛中不会将 CC 链的 sink 点过滤掉，拿上面的 SerialKiller 来说，黑名单将 
 - InvokerTransformer
