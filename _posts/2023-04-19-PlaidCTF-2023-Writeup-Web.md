@@ -473,4 +473,4 @@ mutation($url: String!) {
 
 # 参考
 - [PlaidCTF 2023 WriteUps ](https://blog.maple3142.net/2023/04/17/plaidctf-2023-writeups/)
-- [KeenLab Tech Talk（二）| 浅谈React框架的XSS及后利用](https://www.freebuf.com/vuls/304954.html)
+- [KeenLab Tech Talk（二）- 浅谈React框架的XSS及后利用](https://www.freebuf.com/vuls/304954.html)

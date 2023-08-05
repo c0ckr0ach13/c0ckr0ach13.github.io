@@ -195,3 +195,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
     tools: /tools/:name/
+
+mermaid: true

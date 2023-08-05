@@ -50,7 +50,7 @@
   {% assign urls = urls | append: ',' | append: site.data.origin[type].toc.js %}
 {% endif %}
 
-{% if page.mermaid %}
+{% if site.mermaid %}
   {% assign urls = urls | append: ',' | append: site.data.origin[type].mermaid.js %}
 {% endif %}
 
