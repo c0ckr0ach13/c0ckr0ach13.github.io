@@ -2,7 +2,7 @@
 title: Jekyll-theme-chirpy 主题增加目录展示级别
 date: 2023-07-30 10:23:57
 categories:
-- Env
+- ENV
 tags:
 - Jekyll
 toc: true

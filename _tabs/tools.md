@@ -16,7 +16,7 @@ order: 4
 <button onclick="loadTool('https://www.cvedetails.com/')">cvedetails</button>
 <button onclick="loadTool('https://jwt.io/')">jwt.io</button>
 <button onclick="loadTool('https://jsoncrack.com/editor')">JSON CRACK</button>
-
+<button onclick="loadTool('https://privacy.sexy/')">privacy sexy</button>
 
 ## Docs
 <button onclick="loadTool('https://book.hacktricks.xyz/welcome/readme')">hacktricks</button>
@@ -25,6 +25,7 @@ order: 4
 <button onclick="loadTool('https://oi-wiki.org/')">oi-wiki</button>
 <button onclick="loadTool('https://portswigger.net/web-security/cross-site-scripting/cheat-sheet')">xss cheat-sheet</button>
 <button onclick="loadTool('https://devdocs.io/')">devdocs</button>
+<button onclick="loadTool('https://wokough.gitbook.io/iot-firmware-aio/'）">iot-firmware-aio</button>
 
 <iframe id="toolFrame" src="" frameborder="0" width="100%" height="800px"></iframe>
 
