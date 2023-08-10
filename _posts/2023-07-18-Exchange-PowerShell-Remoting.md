@@ -123,5 +123,5 @@ os.environ['https_proxy'] = 'http://localhost:8080'
 - [渗透基础——Exchange Autodiscover的使用](https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-Exchange-Autodiscover%E7%9A%84%E4%BD%BF%E7%94%A8)
 - [【技术原创】渗透技巧——远程访问Exchange Powershell](https://www.4hou.com/posts/zlj2)
 - [ExchangePowerShell Module](https://learn.microsoft.com/en-us/powershell/module/exchange/?view=exchange-ps)
-- [[MS-PSRP]: PowerShell Remoting Protocol](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-psrp/602ee78e-9a19-45ad-90fa-bb132b7cecec)
+- [PowerShell Remoting Protocol](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-psrp/602ee78e-9a19-45ad-90fa-bb132b7cecec)
 - [Exchange系列文章——Exchange2019部署安装 - 小贝笔记](https://www.xiaobei.one/archives/775.html)
