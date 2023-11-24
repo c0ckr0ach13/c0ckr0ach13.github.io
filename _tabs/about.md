@@ -6,18 +6,14 @@ order: 4
 
 ## About me 🤝
 
-- 💻 Web Security
+- 💻 A pwn lover who wants to record growth.
 
-- 🏥 Medicine lover (taught by girlfriend)
-
-- 👨‍🎓 Trying to further improve education.
-
-- 📚 love reading. Through books ,I can visit places I have never been, can experience life I have never experienced.
-
-- 🛌 sleeping well
+- 🍲 Liking to eat Chaoshan beef hotpot alone.
+ 
+- 🎣 Good at fishing,but everytimes can't catch anything by fishings.
 
 ## Blog
--  [https://DummyKitty.github.io/](https://DummyKitty.github.io/)
+-  [https://c0ckr0ach13.github.io/](https://c0ckr0ach13.github.io/)
 
 
 ## Env
